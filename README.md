@@ -1,8 +1,10 @@
-# Python_network
+# Python_network python (3.4.4)
 
 
-begining to start the study journey of Python with Network 
+The beginning  of the journey of Python with Network area.
 
-Enjoy it , 
 
-have a good time :)
+
+Enjoy it, 
+
+have a good time 
