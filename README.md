@@ -1,7 +1,7 @@
 # Python_network python (3.4.4)
 
 
-The beginning  of the journey of Python with Network area.
+The beginning journey of Python study within Network area.
 
 
 
